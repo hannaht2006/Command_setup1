@@ -5,6 +5,8 @@ public class BrowserUtil {
         System.out.println("created");
 
         System.out.println("updated");
+
+        System.out.println("updated 2nd time");
     }
 
 }
